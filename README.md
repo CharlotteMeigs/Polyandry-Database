@@ -21,4 +21,3 @@ This is a database of information about a variety of socially polyandrous specie
 * ‘Parenting time (days)’: Mean duration (in days) of parental care for chicks of focal species after hatching
 * ‘Notes’: Additional notes about the source paper or the focal species that may be relevant for usage of these data
 
-<img width="468" height="428" alt="image" src="https://github.com/user-attachments/assets/55aa2c63-461f-4c44-81ae-f5e7a0b4e270" />
